@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @BhupenderDaderwal
-- 🌱 I’m currently an undergrad' persuing a degree in BCA
+- 🌱 I'm currently an undergraduate' pursuing a degree in BCA
 <!--- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
